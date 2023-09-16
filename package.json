@@ -1,0 +1,12 @@
+{
+  "name": "bank_vanila_js",
+  "version": "1.0.0",
+  "description": "banking application in vanilla js",
+  "main": "index.js",
+  "repository": "https://github.com/holfizz/bank_vanila_js.git",
+  "author": "holfizz",
+  "license": "MIT",
+  "scripts": {
+    "start": "start"
+  }
+}
